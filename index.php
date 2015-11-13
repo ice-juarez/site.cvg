@@ -6,5 +6,5 @@
 	$est->hola();
 /*$est->set("id", 1);
 $datos = $est->view();
-print $datos['nombre'];*/
+print $datos['nombre'];*/ 
 ?>
